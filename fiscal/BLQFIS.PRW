@@ -2,6 +2,8 @@
 #include "protheus.ch"
 #include "TOPCONN.ch"
 
+
+
 /*/
 +-----------------------------------------------------------------------+
 ¦Programa  ¦ BLQFIS  | Autor | Hermano Nobre        ¦ Data ¦ 29.04.09 ¦
